@@ -1,0 +1,8 @@
+{
+    "DB_Filename":"Sample.DB",
+    "DBServer_Address":"",
+    "DBServer_Username":"",
+    "DBServer_Password":"",
+    "AppVersion":"1.0.0",
+    "TokenTime":"30 min"
+}

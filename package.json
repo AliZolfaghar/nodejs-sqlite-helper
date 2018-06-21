@@ -1,0 +1,17 @@
+{
+  "name": "sqlite-helper",
+  "version": "1.0.0",
+  "description": "a simple helper to use with sqlite / can be modified to use with mysql/sqlserver/ or other rdbms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite-helper"
+  ],
+  "author": "Ali Zolfaghar (AZolfaghar@Gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^4.0.0"
+  }
+}
